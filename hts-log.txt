@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 06 Feb 2019 16:33:48 at http://codervent.com/rocker/white-version/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://codervent.com/rocker/white-version/index.html -O1 "C:\Mes Sites Web\theme admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:50:12	Warning: 	file not stored in cache due to bogus state (broken size, expe16:57:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 970387 got 344224): codervent.com/rocker/color-version/assets/plugins/bootstrap-datatable/js/pdfmake.min.js
+16:59:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 870284 got 396468): codervent.com/rocker/color-version/assets/plugins/bootstrap-datatable/js/vfs_fonts.js
+17:00:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 101939 got 77356): codervent.com/rocker/color-version/assets/plugins/bootstrap-datatable/js/jszip.min.js
+17:00:40	Error: 	"Not Found" (404) at link codervent.com/rocker/color-version/assets/font/weathericons-regular-webfont.woff (from codervent.com/rocker/color-version/assets/css/icons.css)
+17:00:40	Error: 	"Not Found" (404) at link codervent.com/rocker/color-version/assets/font/weathericons-regular-webfont.ttf (from codervent.com/rocker/color-version/assets/css/icons.css)
+17:00:40	Error: 	"Not Found" (404) at link codervent.com/rocker/color-version/assets/font/weathericons-regular-webfont.svg (from codervent.com/rocker/color-version/assets/css/icons.css)
+17:02:47	Warning: 	Retry after error -2 (Receive Time Out) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-1.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:02:47	Warning: 	Retry after error -2 (Receive Time Out) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-2.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:02:47	Warning: 	Retry after error -2 (Receive Time Out) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-3.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:02:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 435257 got 355551): codervent.com/rocker/color-version/assets/images/avatars/avatar-22.png
+17:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-4.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:04:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 2618893 got 1191120): codervent.com/rocker/color-version/assets/images/gallery/carousel-img-3.png
+17:04:05	Warning: 	Retry after error -2 (Receive Time Out) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-5.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:04:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 4042756 got 1418452): codervent.com/rocker/color-version/assets/images/gallery/carousel-img-2.png
+17:04:51	Warning: 	Retry after error -4 (Connect Error) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-6.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:08:35	Warning: 	Retry after error -4 (No data (connection closed)) at link codervent.com/rocker/color-version/assets/images/gallery/25.jpg (from codervent.com/rocker/color-version/cards-image-cards.html)
+17:08:45	Warning: 	Retry after error -4 (Connect Error) at link codervent.com/rocker/color-version/assets/images/gallery/11.jpg (from codervent.com/rocker/color-version/cards-image-cards.html)
+17:08:54	Error: 	"Not Found" (404) at link codervent.com/rocker/color-version/.javascript:void(); (from codervent.com/rocker/color-version/icons-font-awesome.html)
+17:08:55	Warning: 	Retry after error -4 (Connect Error) at link codervent.com/rocker/color-version/assets/plugins/bootstrap-datatable/js/buttons.bootstrap4.min.js (from codervent.com/rocker/color-version/table-data-tables.html)
+17:08:55	Warning: 	Retry after error -4 (Incorrect length (77356 Bytes, 101939 expected)) at link codervent.com/rocker/color-version/assets/plugins/bootstrap-datatable/js/jszip.min.js (from codervent.com/rocker/color-version/table-data-tables.html)
+17:09:00	Warning: 	Retry after error -4 (Incorrect length (344224 Bytes, 970387 expected)) at link codervent.com/rocker/color-version/assets/plugins/bootstrap-datatable/js/pdfmake.min.js (from codervent.com/rocker/color-version/table-data-tables.html)
+17:10:31	Warning: 	Retry after error -4 (Incorrect length (396468 Bytes, 870284 expected)) at link codervent.com/rocker/color-version/assets/plugins/bootstrap-datatable/js/vfs_fonts.js (from codervent.com/rocker/color-version/table-data-tables.html)
+17:10:35	Warning: 	Retry after error -4 (No data (connection closed)) at link codervent.com/rocker/color-version/assets/plugins/Chart.js/chartjs-script.js (from codervent.com/rocker/color-version/charts-chartjs.html)
+17:10:37	Warning: 	Retry after error -4 (No data (connection closed)) at link codervent.com/rocker/color-version/assets/plugins/flot/jquery.flot.categories.js (from codervent.com/rocker/color-version/charts-flot.html)
+17:10:39	Warning: 	Retry after error -4 (Connect Error) at link codervent.com/rocker/color-version/assets/plugins/vectormap/jvectormap.custom.js (from codervent.com/rocker/color-version/maps-vector.html)
+17:10:40	Warning: 	Retry after error -4 (Incorrect length (355551 Bytes, 435257 expected)) at link codervent.com/rocker/color-version/assets/images/avatars/avatar-22.png (from codervent.com/rocker/color-version/pages-user-profile.html)
+17:10:44	Warning: 	Retry after error -4 (Connect Error) at link codervent.com/rocker/color-version/assets/plugins/summernote/dist/font/summernote291f.woff?0d0d5fac99cc8774d89eb08b1a8323c4 (from codervent.com/rocker/color-version/assets/plugins/summernote/dist/summernote-bs4.css)
+17:10:46	Warning: 	Retry after error -4 (Connect Error) at link codervent.com/rocker/color-version/assets/plugins/summernote/dist/font/summernote291f.ttf?0d0d5fac99cc8774d89eb08b1a8323c4 (from codervent.com/rocker/color-version/assets/plugins/summernote/dist/summernote-bs4.css)
+17:10:50	Warning: 	Retry after error -4 (Incorrect length (1418452 Bytes, 4042756 expected)) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-2.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:10:53	Warning: 	Retry after error -4 (Incorrect length (1191120 Bytes, 2618893 expected)) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-3.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:13:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 2618893 got 2189070): codervent.com/rocker/color-version/assets/images/gallery/carousel-img-3.png
+17:13:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 4042756 got 2457350): codervent.com/rocker/color-version/assets/images/gallery/carousel-img-2.png
+17:13:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 3937310 got 3353225): codervent.com/rocker/color-version/assets/images/gallery/carousel-img-6.png
+17:13:12	Warning: 	Retry after error -4 (Incorrect length (3353225 Bytes, 3937310 expected)) at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-6.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:13:12	Error: 	"Incorrect length (2457350 Bytes, 4042756 expected)" (-4) after 2 retries at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-2.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+17:13:12	Error: 	"Incorrect length (2189070 Bytes, 2618893 expected)" (-4) after 2 retries at link codervent.com/rocker/color-version/assets/images/gallery/carousel-img-3.png (from codervent.com/rocker/color-version/components-image-carousel.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 minutes 1 seconds : 845 links scanned, 817 files written (40032389 bytes overall) [42280850 bytes received at 18536 bytes/sec], 3014046 bytes transferred using HTTP compression in 76 files, ratio 12%, 4.8 requests per connection
+(6 errors, 31 warnings, 0 messages)
